@@ -2,7 +2,7 @@ body {
   background-color: rgb(206, 206, 206);
 }
 #button1 {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -15,5 +15,5 @@ body {
 }
 
 .joke {
- color: brown;
+  color: brown;
 }
